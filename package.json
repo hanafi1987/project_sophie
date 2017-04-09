@@ -1,0 +1,24 @@
+{
+  "name": "hermo",
+  "version": "1.0.0",
+  "description": "Beauty Cosmetic Commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hazelnuts34@bitbucket.org/sqai/hermo.git"
+  },
+  "keywords": [
+    "hermo"
+  ],
+  "author": "Syafiq Azizi",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/sqai/hermo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-css": "^0.1.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}

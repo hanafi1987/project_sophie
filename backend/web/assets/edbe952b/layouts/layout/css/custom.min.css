@@ -1,0 +1,40 @@
+#thumbnail-img {
+    position: relative;
+    width: 153px;
+    height: 60px;
+    display: block;
+    margin: 0 auto;
+}
+
+#thumbnail-img img {
+    width: auto;
+    max-height: 100%;
+
+}
+
+.thumb {
+    width: 100%;
+}
+
+#banner_list td, #brand_list td, #cat_list td {
+    vertical-align: middle;
+}
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+
+.mt-widget-2 .mt-body .mt-body-actions .btn.btn-action-padding{
+    float: none;
+    display: table-cell;
+    width: 1%;
+}
+.dropzone.dropzone-file-area {
+    height: 370px;
+    margin: 20px;
+}
+
+.dropzone .fa {
+    margin-top: 15%;
+    font-size: 70px;
+}
